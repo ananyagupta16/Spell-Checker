@@ -20,6 +20,3 @@ This project is a simple **Spell Checker Application** built using Python and th
    - `correct_text`: This method splits the text into words, checks each word, and returns the corrected version.
    - `run`: The main loop where the user inputs text, corrections are applied, and results are displayed.
 3. **Error Handling & Exiting:** The app allows users to exit by typing "exit", making it user-friendly.
-
-#### Applications:
-This spell checker app can be further extended and integrated into larger text-processing projects such as text editors, blogging platforms, or chatbots that require basic spelling correction functionality.
